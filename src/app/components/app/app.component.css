@@ -1,0 +1,130 @@
+
+div {
+  background-color: darkorange;
+  height: 100px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: italic;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#doget {
+  background-color: lightskyblue;
+  height: 260px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#dopost {
+  background-color: lightskyblue;
+  height: 220px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#dodelete {
+  background-color: lightskyblue;
+  height: 1820px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#doput {
+  background-color: lightskyblue;
+  height: 220px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#dopatch {
+  background-color: lightskyblue;
+  height: 220px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#response {
+  background-color: lightsalmon;
+  height: 1000px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+
+}
+
+#content {
+  background-color: darkorange;
+  height: 300px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+  padding-top: 150px;
+
+}
+
+h1 {
+  background-color: darkorange;
+  height: 30px;
+  line-height: 1em;
+  padding: 10px 5px 15px 20px;
+  margin: 0px;
+}
+
+p {
+  background-color: dodgerblue;
+  height: 100px;
+  padding: 10px 5px 15px 20px;
+  margin: 0;
+}
+
+span {
+  background-color: darkorange;
+  height: 200px;
+  margin: 20px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+  padding-top: 0px;
+
+}
+
+.error {
+  color: red;
+  font-size: 18px;
+  background-color: green;
+}
+
+
+span h1 div {
+  background-color: goldenrod;
+  padding: 10px 5px 15px 20px;
+  margin: 0;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+}
